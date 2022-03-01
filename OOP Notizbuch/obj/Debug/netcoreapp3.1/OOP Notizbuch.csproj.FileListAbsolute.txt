@@ -1,0 +1,16 @@
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.exe
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.deps.json
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.runtimeconfig.json
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.runtimeconfig.dev.json
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.dll
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\bin\Debug\netcoreapp3.1\OOP Notizbuch.pdb
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.csproj.AssemblyReference.cache
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP_Notizbuch.Form1.resources
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.csproj.GenerateResource.cache
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.AssemblyInfoInputs.cache
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.AssemblyInfo.cs
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.csproj.CoreCompileInputs.cache
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.dll
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.pdb
+C:\Users\danda\source\repos\OOP Notizbuch\OOP Notizbuch\obj\Debug\netcoreapp3.1\OOP Notizbuch.genruntimeconfig.cache
